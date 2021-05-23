@@ -1,7 +1,7 @@
 #  Hello, my name is Angelo Escobar
 ### Full-stack JS developer
 
-<!--  <img height="300" width="100%" src="./banner.gif" /> -->
+<!--  <img height="300" width="100%" src="./fondo.gif" /> -->
 
 I'm a web developer.
 
