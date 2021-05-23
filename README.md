@@ -27,7 +27,15 @@ I'm a web developer.
 </br>
 And more...
 
-## Some:
+## Some projects:
+
+• PI - Videogames
+
+• DiceStarter - In process
+
+• Weather-App
+
+• Movies
 
 ## Find me at:
 
