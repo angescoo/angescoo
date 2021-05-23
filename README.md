@@ -31,20 +31,20 @@ And more...
 
 • PI - Videogames
 
-<img height="200" width="300" src="./Images/Videogames/landing.png" />
-<img height="200" width="300" src="./Images/Videogames/Home.png" />
-<img height="200" width="300" src="./Images/Videogames/Card.png" />
+<img height="250" width="400" src="./Images/Videogames/landing.png" /> <img height="250" width="400" src="./Images/Videogames/Home.png" />
+
+<img height="250" width="400" src="./Images/Videogames/Card.png" />
 
 • DiceStarter - In process
 
-<img height="150" width="300" src="./Images/DiceStarter/landing.png" />
-<img height="150" width="300" src="./Images/DiceStarter/home.png" />
-<img height="150" width="300" src="./Images/DiceStarter/detail.png" />
-<img height="150" width="300" src="./Images/DiceStarter/cart.png" />
+<img height="250" width="400" src="./Images/DiceStarter/landing.png" /> <img height="250" width="400" src="./Images/DiceStarter/home.png" />
+
+<img height="250" width="400" src="./Images/DiceStarter/detail.png" /> <img height="250" width="400" src="./Images/DiceStarter/cart.png" />
+
 
 • Weather-App
 
-<img height="150" width="300" src="./Images/Weather/home.png" />
+<img height="200" width="400" src="./Images/Weather/home.png" />
 
 • Movies
 
