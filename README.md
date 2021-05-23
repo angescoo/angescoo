@@ -31,9 +31,9 @@ And more...
 
 • PI - Videogames
 
-<img height="300" width="300" src="./images/" />
-<img height="300" width="300" src="./images/" />
-<img height="300" width="300" src="./images/" />
+<img height="300" width="300" src="./images/Videogames/landing.png" />
+<img height="300" width="300" src="./images/Videogames/home.png" />
+<img height="300" width="300" src="./images/Videogames/card.png" />
 
 • DiceStarter - In process
 
