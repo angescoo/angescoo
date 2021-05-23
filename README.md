@@ -39,6 +39,8 @@ And more...
 
 • Weather-App
 
+<img height="150" width="300" src="./Images/Weather/home.png" />
+
 • Movies
 
 ## Find me at:
