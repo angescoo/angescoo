@@ -1,11 +1,13 @@
 #  Hello, my name is Angelo Escobar
-### Full-stack JS developer
 
  <img height="300" width="100%" src="./fondo.gif" />
 
-I'm a web developer.
+I'm a Full-stack JS developer developer.
 
-<!--  -->
+I like everything related to analysis and logic (for this same reason is that I feel more familiar with Back end development), I am a very organized person, I adapt to any environment and I am at the height of any problem that arises or pose me.
+I really like to read, my favorite author is John Katzenbach and, despite having several books by him, I consider that the best of all is "The Psychoanalyst".
+In my free time I like to share with friends and play the play.
+Currently I work as a Back Office, my function is to analyze cases generated from the Front Office in order to be able to solve them as soon as possible
 
 ## Skills:
 
