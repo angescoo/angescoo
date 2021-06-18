@@ -31,7 +31,7 @@ And more...
 
 ## Some projects:
 
-• PI - Videogames
+• Videogames-App
 
 <img height="250" width="400" src="./Images/Videogames/landing.png" /> <img height="250" width="400" src="./Images/Videogames/Home.png" />
 
