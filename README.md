@@ -33,11 +33,11 @@ And more...
 
 • Videogames-App
 
-<img height="250" width="400" src="./Images/Videogames/landing.png" /> <img height="250" width="400" src="./Images/Videogames/Home.png" />
+<img height="250" width="400" src="./Images/Videogames/home2.png" /> <img height="250" width="400" src="./Images/Videogames/create.png" />
 
-<img height="250" width="400" src="./Images/Videogames/Card.png" />
+<img height="250" width="400" src="./Images/Videogames/create2.png" />
 
-• DiceStarter - In process
+• DiceStarter
 
 <img height="250" width="400" src="./Images/DiceStarter/landing.png" /> <img height="250" width="400" src="./Images/DiceStarter/home.png" />
 
