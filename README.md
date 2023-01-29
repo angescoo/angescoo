@@ -1,7 +1,5 @@
 #  Hello, my name is Angelo Escobar
 
- <img height="300" width="100%" src="./fondo.gif" />
-
 I'm a Full-stack JS developer developer.
 
 I like everything related to analysis and logic (for this same reason is that I feel more familiar with Back end development), I am a very organized person, I adapt to any environment and I am at the height of any problem that arises or pose me.
