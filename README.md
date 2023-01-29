@@ -11,6 +11,12 @@ Currently I work as a Back Office, my function is to analyze cases generated fro
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
+[![Typescript](https://img.shields.io/badge/typescript-084CBB?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
+</br>
+[![C#](https://img.shields.io/badge/Csharp-7008AF?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+</br>
+[![Xamarin](https://img.shields.io/badge/Xamarin-A23D03?style=for-the-badge&logo=xamarin&logoColor=white&labelColor=101010)]()
+</br>
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-084CBB?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 </br>
 [![React](https://img.shields.io/badge/React-D16D05?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
@@ -19,11 +25,7 @@ Currently I work as a Back Office, my function is to analyze cases generated fro
 </br>
 [![Express](https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
 </br>
-   [![Node.JS](https://img.shields.io/badge/Node.JS-012564?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-</br>
-   [![HTML](https://img.shields.io/badge/HTML-A23D03?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
-</br>
-   [![CSS](https://img.shields.io/badge/CSS-1A867F?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-012564?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 </br>
 And more...
 
