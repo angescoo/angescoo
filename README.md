@@ -60,4 +60,3 @@ And more...
 
 [![Email](https://img.shields.io/badge/angeloo.esc@gmail.com-my_personal_email-1B8C26?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:angeloo.esc@gmail.com)
 </br>
-[![Phone](https://img.shields.io/badge/+543624901815-my_phone_number-1B8C26?style=for-the-badge&logo=phone&logoColor=white&labelColor=101010)](mailto:angeloo.esc@gmail.com)
